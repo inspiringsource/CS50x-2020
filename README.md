@@ -13,4 +13,15 @@ Week 9 Flask<br/>
 Week 10 Ethics<br/>
 <br/>
 Final Project<br/>
+
+
 Course link: https://cs50.harvard.edu/x/2021/
+
+ C/C++ extensions are required for compiling and running CS50 C code:
+ https://github.com/cs50/libcs50/releases
+ 
+ 
+ Run using
+ ```bash
+clang prog.c -lcs50 -o prog
+```

@@ -21,7 +21,9 @@ Course link: https://cs50.harvard.edu/x/2021/
  https://github.com/cs50/libcs50/releases
  
  
- Run using
+ To compile and execute the C code:
  ```bash
 clang prog.c -lcs50 -o prog
+# and
+./prog
 ```

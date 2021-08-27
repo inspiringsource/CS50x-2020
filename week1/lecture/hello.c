@@ -1,4 +1,4 @@
-//in progress: Types - https://youtu.be/zYierUhIFNQ?t=3817
+//in progress: CS50 IDE's File Browser - https://youtu.be/zYierUhIFNQ
 #include <cs50.h>
 #include <stdio.h>
 

@@ -27,3 +27,5 @@ clang prog.c -lcs50 -o prog
 # and
 ./prog
 ```
+
+In progress: https://youtu.be/zYierUhIFNQ?t=5636

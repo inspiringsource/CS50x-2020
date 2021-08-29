@@ -28,4 +28,4 @@ clang prog.c -lcs50 -o prog
 ./prog
 ```
 
-In progress: https://youtu.be/zYierUhIFNQ?t=5636
+In progress: https://youtu.be/zYierUhIFNQ?t=5916

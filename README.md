@@ -30,4 +30,4 @@ clang prog.c -lcs50 -o prog
 
 Operators in C: https://www.programiz.com/c-programming/c-operators
 
-In progress: https://youtu.be/zYierUhIFNQ?t=5916
+In progress: https://youtu.be/tI_tIZFyKBw

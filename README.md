@@ -3,7 +3,7 @@ My solutions and practice code for CS50x 2021 :bowtie:<br/>
 
 ## About this Repository
 
-:point_right: This is my attempt at CS50 course. I will record relevant progress and source code for good practice.
+:point_right: This is my attempt at CS50 course. I will record relevant progress and source code for good practice. 
 
 ## Contents :speech_balloon:
 
@@ -24,7 +24,8 @@ Week 1 C<br/>
  └── cs50.h<br/>
 Week 2 Arrays<br/>
  ├── hello2.c<br/>
- └── buggy.c<br/>
+ ├── buggy0.c<br/>
+ ├── buggy1.c<br/>
 Week 3 Algorithms<br/>
 Week 4 Memory<br/>
 Week 5 Data Structures<br/>
@@ -41,13 +42,23 @@ Final Project<br/>
 
 Course link: https://cs50.harvard.edu/x/2021/
 
- C/C++ extensions are required for compiling and running CS50 C code:
- https://github.com/cs50/libcs50/releases
+Compiling source code into machine code is made up of:
+* preprocessing
+* compiling
+* assembling
+* linking
+
+All we have to be concerned about is compile the source code by using ```make``` or ```clang``` in Bash.
+
  
  ## Getting started :fire:
+
+ C/C++ extensions are required for compiling and running CS50 C code:
+ https://github.com/cs50/libcs50/releases
+
  To compile and execute the C code:
  ```bash
-clang prog.c -lcs50 -o prog
+clang -o prog prog.c -lcs50
 # and
 ./prog
 ```
@@ -62,4 +73,4 @@ Operators in C: https://www.programiz.com/c-programming/c-operators
 
 Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
-In progress: https://youtu.be/tI_tIZFyKBw?t=1845
+In progress: https://youtu.be/tI_tIZFyKBw?t=3009

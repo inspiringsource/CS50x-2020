@@ -1,13 +1,13 @@
 # CS50x-2021
-My solutions and practice code for CS50x 2021<br/>
+My solutions and practice code for CS50x 2021 :bowtie:<br/>
 
 ## About this Repository
 
-This is my attempt at CS50 course. I will record relevant progress and source code for good practice.
+:point_right: This is my attempt at CS50 course. I will record relevant progress and source code for good practice.
 
-## Contents
+## Contents :speech_balloon:
 
-README.md
+README.md<br/>
 Week 1 C<br/>
  ├── goodbye.c<br/>
  ├── hello.c<br/>
@@ -44,7 +44,7 @@ Course link: https://cs50.harvard.edu/x/2021/
  C/C++ extensions are required for compiling and running CS50 C code:
  https://github.com/cs50/libcs50/releases
  
- ##Getting started
+ ## Getting started
  To compile and execute the C code:
  ```bash
 clang prog.c -lcs50 -o prog

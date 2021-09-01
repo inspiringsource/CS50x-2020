@@ -29,7 +29,21 @@ Week 2 Arrays<br/>
  ├── scores.c<br/>
  ├── brick.c<br/>
  ├── hi.c<br/>
+ ├── string.c<br/>
  ├── _____.c<br/>
+ ├── _____.c<br/>
+ Markup : <details>
+           <summary>Week 2 Arrays</summary>
+           <p> ├── hello2.c<br/>
+  ├── buggy1.c<br/>
+  ├── scores.c<br/>
+  ├── buggy0.c<br/>
+  ├── brick.c<br/>
+  ├── _____.c<br/></p>
+  ├── hi.c<br/>
+  ├── string.c<br/>
+  ├── _____.c<br/>
+         </details>
 Week 3 Algorithms<br/>
 Week 4 Memory<br/>
 Week 5 Data Structures<br/>

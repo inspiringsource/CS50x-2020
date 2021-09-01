@@ -77,4 +77,4 @@ Operators in C: https://www.programiz.com/c-programming/c-operators
 
 Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
-In progress: https://youtu.be/tI_tIZFyKBw?t=5324
+In progress: https://youtu.be/tI_tIZFyKBw?t=6475

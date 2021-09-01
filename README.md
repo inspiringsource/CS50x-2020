@@ -26,6 +26,10 @@ Week 2 Arrays<br/>
  ├── hello2.c<br/>
  ├── buggy0.c<br/>
  ├── buggy1.c<br/>
+ ├── scores.c<br/>
+ ├── brick.c<br/>
+ ├── hi.c<br/>
+ ├── _____.c<br/>
 Week 3 Algorithms<br/>
 Week 4 Memory<br/>
 Week 5 Data Structures<br/>
@@ -73,4 +77,4 @@ Operators in C: https://www.programiz.com/c-programming/c-operators
 
 Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
-In progress: https://youtu.be/tI_tIZFyKBw?t=3009
+In progress: https://youtu.be/tI_tIZFyKBw?t=5324

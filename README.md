@@ -25,19 +25,18 @@ README.md<br/>
   ├── cs50.c<br/>
   └── cs50.h<br/>
          </details>
- Markup : <details>
+ <details>
            <summary>Week 2 Arrays</summary>
            <p> 
- ├── hello2.c<br/>
- ├── hello2.c<br/>
- ├── buggy0.c<br/>
- ├── buggy1.c<br/>
- ├── scores.c<br/>
- ├── brick.c<br/>
- ├── hi.c<br/>
- ├── string.c<br/>
- ├── _____.c<br/>
- ├── _____.c<br/>
+  ├── hello2.c<br/>
+  ├── buggy0.c<br/>
+  ├── buggy1.c<br/>
+  ├── scores.c<br/>
+  ├── brick.c<br/>
+  ├── hi.c<br/>
+  ├── string.c<br/>
+  ├── _____.c<br/>
+  ├── _____.c<br/>
         </details>
 Week 3 Algorithms<br/>
 Week 4 Memory<br/>

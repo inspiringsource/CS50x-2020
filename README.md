@@ -8,7 +8,7 @@ My solutions and practice code for CS50x 2021 :bowtie:<br/>
 ## Contents :speech_balloon:
 
 README.md<br/>
-  Markup : <details>
+  <details>
            <summary>Week 1 C</summary>
            <p> 
   ├── goodbye.c<br/>

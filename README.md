@@ -22,6 +22,23 @@ Week 1 C<br/>
  ├── imprecision.c<br/>
  ├── cs50.c<br/>
  └── cs50.h<br/>
+  Markup : <details>
+           <summary>Week 1 C</summary>
+           <p> 
+  ├── goodbye.c<br/>
+  ├── hello.c<br/>
+  ├── addtion.c<br/>
+  ├── truncation.c<br/>
+  ├── conditions.c<br/>
+  ├── agree.c<br/>
+  ├── meow.c<br/>
+  ├── positive.c<br/>
+  ├── mario.c<br/>
+  ├── mario2.c<br/>
+  ├── imprecision.c<br/>
+  ├── cs50.c<br/>
+  └── cs50.h<br/>
+         </details>
 Week 2 Arrays<br/>
  ├── hello2.c<br/>
  ├── buggy0.c<br/>
@@ -34,16 +51,18 @@ Week 2 Arrays<br/>
  ├── _____.c<br/>
  Markup : <details>
            <summary>Week 2 Arrays</summary>
-           <p> ├── hello2.c<br/>
-  ├── buggy1.c<br/>
-  ├── scores.c<br/>
-  ├── buggy0.c<br/>
-  ├── brick.c<br/>
-  ├── _____.c<br/></p>
-  ├── hi.c<br/>
-  ├── string.c<br/>
-  ├── _____.c<br/>
-         </details>
+           <p> 
+ ├── hello2.c<br/>
+ ├── hello2.c<br/>
+ ├── buggy0.c<br/>
+ ├── buggy1.c<br/>
+ ├── scores.c<br/>
+ ├── brick.c<br/>
+ ├── hi.c<br/>
+ ├── string.c<br/>
+ ├── _____.c<br/>
+ ├── _____.c<br/>
+        </details>
 Week 3 Algorithms<br/>
 Week 4 Memory<br/>
 Week 5 Data Structures<br/>

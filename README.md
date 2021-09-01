@@ -37,14 +37,14 @@ Week 10 Ethics<br/>
 Final Project<br/>
 
 
-## Features
+## Features :eyes:
 
 Course link: https://cs50.harvard.edu/x/2021/
 
  C/C++ extensions are required for compiling and running CS50 C code:
  https://github.com/cs50/libcs50/releases
  
- ## Getting started
+ ## Getting started :fire:
  To compile and execute the C code:
  ```bash
 clang prog.c -lcs50 -o prog
@@ -56,8 +56,10 @@ clang prog.c -lcs50 -o prog
 
 
 
-## Additional resources:
+## Additional resources:gift::
 
 Operators in C: https://www.programiz.com/c-programming/c-operators
+
+Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 In progress: https://youtu.be/tI_tIZFyKBw?t=1845

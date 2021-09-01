@@ -1,30 +1,30 @@
 # CS50x-2021
 My solutions and practice code for CS50x 2021<br/>
 
-##About this Repository
+## About this Repository
 
 This is my attempt at CS50 course. I will record relevant progress and source code for good practice.
 
-##Contents
+## Contents
 
 README.md
 Week 1 C<br/>
- ├── goodbye.c
- ├── hello.c
- ├── addtion.c
- ├── truncation.c
- ├── conditions.c
- ├── agree.c
- ├── meow.c
- ├── positive.c
- ├── mario.c
- ├── mario2.c
- ├── imprecision.c
- ├── cs50.c
- └── cs50.h
+ ├── goodbye.c<br/>
+ ├── hello.c<br/>
+ ├── addtion.c<br/>
+ ├── truncation.c<br/>
+ ├── conditions.c<br/>
+ ├── agree.c<br/>
+ ├── meow.c<br/>
+ ├── positive.c<br/>
+ ├── mario.c<br/>
+ ├── mario2.c<br/>
+ ├── imprecision.c<br/>
+ ├── cs50.c<br/>
+ └── cs50.h<br/>
 Week 2 Arrays<br/>
- ├── hello2.c
- └── buggy.c
+ ├── hello2.c<br/>
+ └── buggy.c<br/>
 Week 3 Algorithms<br/>
 Week 4 Memory<br/>
 Week 5 Data Structures<br/>
@@ -37,7 +37,7 @@ Week 10 Ethics<br/>
 Final Project<br/>
 
 
-##Features
+## Features
 
 Course link: https://cs50.harvard.edu/x/2021/
 
@@ -56,7 +56,7 @@ clang prog.c -lcs50 -o prog
 
 
 
-##Additional resources:
+## Additional resources:
 
 Operators in C: https://www.programiz.com/c-programming/c-operators
 

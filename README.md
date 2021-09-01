@@ -24,7 +24,8 @@ README.md<br/>
   ├── imprecision.c<br/>
   ├── cs50.c<br/>
   └── cs50.h<br/>
-         </details>
+  </p>
+    </details>
  <details>
            <summary>Week 2 Arrays</summary>
            <p> 
@@ -37,7 +38,8 @@ README.md<br/>
   ├── string.c<br/>
   ├── _____.c<br/>
   ├── _____.c<br/>
-        </details>
+  </p>
+    </details>
 Week 3 Algorithms<br/>
 Week 4 Memory<br/>
 Week 5 Data Structures<br/>

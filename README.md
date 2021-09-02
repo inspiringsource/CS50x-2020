@@ -1,5 +1,5 @@
-# CS50x-2021
-My solutions and practice code for CS50x 2021 :bowtie:<br/>
+# CS50x-2020
+My solutions and practice code for CS50x 2020 :bowtie:<br/>
 
 ## About this Repository
 

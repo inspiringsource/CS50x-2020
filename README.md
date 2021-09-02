@@ -62,7 +62,7 @@ Compiling source code into machine code is made up of:
 * assembling
 * linking
 
-All we have to be concerned about is compile the source code by using ```make``` or ```clang``` in Bash.
+All we have to be concerned about is compile the source code by using ```make``` or ```clang``` in the command line.
 
  
  ## Getting started :fire:
@@ -77,9 +77,36 @@ clang -o prog prog.c -lcs50
 ./prog
 ```
 
+## Arrays and Pointers :flashlight:
+### Arrays
 
+Let's say, for example, we declare an Array ```speed```
 
+Declare an array:
+```int speed[3] = {50, 80, 120};```
+Printing the elements
+```
+for(int i = 0; i < 3; ++i) {
+     printf("%d\n", speed[i]);
+  }
+```
+### Pointers
+Pointers are used to store the addresses of an array.
 
+We can declare a pointer variable called ptr
+```int* ptr;```
+Assign the address of speed[2]
+```ptr = &speed[2];```
+
+ Element      |Address       | Value        | 
+------------- |------------- |------------- |
+speed[0]      |0x7ffdceeb8e3c|   50         | 
+speed[1]      |0x7ffdceeb8e40|   80         | 
+speed[2]      |0x7ffdceeb8e44|   120        | 
+
+if we print to the pointed value we use:
+```printf("%d", *ptr);```
+The output is 120
 
 ## Additional resources:gift::
 

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main(void){
     int i, speed[3] = {50, 80, 120};
 
     printf("Element \t|\tAddress\t\t|\tValuen\n");

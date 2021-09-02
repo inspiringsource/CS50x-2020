@@ -36,8 +36,9 @@ README.md<br/>
   ├── brick.c<br/>
   ├── hi.c<br/>
   ├── string.c<br/>
-  ├── _____.c<br/>
-  ├── _____.c<br/>
+  ├── uppercase.c<br/>
+  ├── argv.c<br/>
+  └── exit.c<br/>
   </p>
     </details>
 Week 3 Algorithms<br/>
@@ -114,4 +115,6 @@ Operators in C: https://www.programiz.com/c-programming/c-operators
 
 Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
-In progress: https://youtu.be/tI_tIZFyKBw?t=6475
+Manual pages for the C: https://manual.cs50.io/
+
+In progress: https://youtu.be/gR6nycuZKlM

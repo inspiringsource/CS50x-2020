@@ -44,8 +44,8 @@ README.md<br/>
  <details>
            <summary>Week 3 Algorithms</summary>
            <p> 
-  ├── ______.c<br/>
-  ├── ______.c<br/>
+  ├── numbers.c<br/>
+  ├── names.c<br/>
   ├── ______.c<br/>
   ├── ______.c<br/>
   ├── ______.c<br/>
@@ -144,4 +144,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/gR6nycuZKlM
+In progress: https://youtu.be/gR6nycuZKlM?t=3084

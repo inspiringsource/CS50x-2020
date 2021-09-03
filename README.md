@@ -123,15 +123,16 @@ if we print to the pointed value we use:
 ```printf("%d", *ptr);```
 The output is 120
 
+Run practice code: week2/Practice/arraysNpointers for more...
+
 ## Array of Arrays
 
 ```string words[2]```<br/>
 
 ```words[0] = "HI!"```<br/>
 ```words[1] = "BYE"```<br/>
- H          | I          | !          | \0        | B         |Y          |E          | \0        | 
-------------|------------|------------|-----------|-----------|-----------|-----------|-----------|
-words[0][0] |words[0][1] |words[0][2] |words[0][3]|words[1][0]|words[1][1]|words[1][2]|words[1][3]| 
+
+see week2/Practice/words for example
 
 
 

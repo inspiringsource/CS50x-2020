@@ -123,7 +123,7 @@ if we print to the pointed value we use:
 ```printf("%d", *ptr);```
 The output is 120
 
-Run practice code: week2/Practice/arraysNpointers for more...
+Run practice code: ```week2/Practice/arraysNpointers``` for more...
 
 ## Array of Arrays :pencil:
 
@@ -132,7 +132,7 @@ Run practice code: week2/Practice/arraysNpointers for more...
 ```words[0] = "HI!"```<br/>
 ```words[1] = "BYE"```<br/>
 
-see week2/Practice/arrayOfarrays for example
+see ```week2/Practice/arrayOfarrays``` for example
 
 
 
@@ -144,4 +144,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/gR6nycuZKlM?t=3084
+In progress: https://youtu.be/gR6nycuZKlM?t=3347

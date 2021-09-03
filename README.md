@@ -105,7 +105,7 @@ for(int i = 0; i < 3; ++i) {
      printf("%d\n", speed[i]);
   }
 ```
-### Pointers
+### Pointers :sparkles:
 Pointers are used to store the addresses of an array.
 
 We can declare a pointer variable called ptr
@@ -125,14 +125,14 @@ The output is 120
 
 Run practice code: week2/Practice/arraysNpointers for more...
 
-## Array of Arrays
+## Array of Arrays :pencil:
 
 ```string words[2]```<br/>
 
 ```words[0] = "HI!"```<br/>
 ```words[1] = "BYE"```<br/>
 
-see week2/Practice/words for example
+see week2/Practice/arraysOfarrays for example
 
 
 

@@ -132,7 +132,7 @@ Run practice code: week2/Practice/arraysNpointers for more...
 ```words[0] = "HI!"```<br/>
 ```words[1] = "BYE"```<br/>
 
-see week2/Practice/arraysOfarrays for example
+see week2/Practice/arrayOfarrays for example
 
 
 

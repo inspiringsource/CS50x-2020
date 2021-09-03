@@ -109,6 +109,18 @@ if we print to the pointed value we use:
 ```printf("%d", *ptr);```
 The output is 120
 
+## Array of Arrays
+
+```string words[2]```
+
+```words[0] = "HI!"```
+```words[1] = "BYE"```
+ H          | I          | !          | \0        | B         |Y          |E          | \0        | 
+------------|------------|------------|-----------|-----------|-----------|-----------|-----------|
+words[0][0] |words[0][1] |words[0][2] |words[0][3]|words[1][0]|words[1][1]|words[1][2]|words[1][3]| 
+
+
+
 ## Additional resources:gift::
 
 Operators in C: https://www.programiz.com/c-programming/c-operators

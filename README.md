@@ -41,7 +41,21 @@ README.md<br/>
   └── exit.c<br/>
   </p>
     </details>
-Week 3 Algorithms<br/>
+ <details>
+           <summary>Week 3 Algorithms</summary>
+           <p> 
+  ├── ______.c<br/>
+  ├── ______.c<br/>
+  ├── ______.c<br/>
+  ├── ______.c<br/>
+  ├── ______.c<br/>
+  ├── ______.c<br/>
+  ├── ______.c<br/>
+  ├── ______.c<br/>
+  ├── ______.c<br/>
+  └── ______.c<br/>
+  </p>
+    </details>
 Week 4 Memory<br/>
 Week 5 Data Structures<br/>
 Week 6 Python<br/>
@@ -111,10 +125,10 @@ The output is 120
 
 ## Array of Arrays
 
-```string words[2]```
+```string words[2]```<br/>
 
-```words[0] = "HI!"```
-```words[1] = "BYE"```
+```words[0] = "HI!"```<br/>
+```words[1] = "BYE"```<br/>
  H          | I          | !          | \0        | B         |Y          |E          | \0        | 
 ------------|------------|------------|-----------|-----------|-----------|-----------|-----------|
 words[0][0] |words[0][1] |words[0][2] |words[0][3]|words[1][0]|words[1][1]|words[1][2]|words[1][3]| 

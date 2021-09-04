@@ -123,7 +123,7 @@ if we print to the pointed value we use:
 ```printf("%d", *ptr);```
 The output is 120
 
-Run practice code: ```https://github.com/inspiringsource/CS50x-2020/blob/main/week2/Practice/arraysNpointers.c``` for more...
+Run practice code: https://github.com/inspiringsource/CS50x-2020/blob/main/week2/Practice/arraysNpointers.c for more...
 
 ## Array of Arrays :pencil:
 
@@ -132,7 +132,7 @@ Run practice code: ```https://github.com/inspiringsource/CS50x-2020/blob/main/we
 ```words[0] = "HI!"```<br/>
 ```words[1] = "BYE"```<br/>
 
-Practice code: ```https://github.com/inspiringsource/CS50x-2020/blob/main/week2/Practice/arrayOfarrays.c``` 
+Practice code: https://github.com/inspiringsource/CS50x-2020/blob/main/week2/Practice/arrayOfarrays.c
 
 
 

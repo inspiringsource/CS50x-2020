@@ -1,5 +1,6 @@
 {
-    "files.associations": {
-        "cs50.h": "c"
-    }
+  "files.associations": {
+    "cs50.h": "c",
+    "string.h": "c"
+  }
 }

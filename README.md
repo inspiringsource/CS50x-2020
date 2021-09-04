@@ -144,4 +144,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://www.youtube.com/watch?v=gR6nycuZKlM&t=5782s
+In progress: https://youtu.be/gR6nycuZKlM?t=5966

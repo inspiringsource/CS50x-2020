@@ -126,8 +126,8 @@ The output is 120
 
 <table>
 <tr>
-<th>Json 1</th>
-<th>Markdown</th>
+<th>C code/th>
+<th>Output</th>
 </tr>
 <tr>
 <td>
@@ -169,8 +169,8 @@ speed[2]        |       0x7ffde5134684  |       120
 
 <table>
 <tr>
-<th>Json 1</th>
-<th>Markdown</th>
+<th>C code</th>
+<th>Output</th>
 </tr>
 <tr>
 <td>

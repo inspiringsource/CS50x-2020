@@ -47,16 +47,28 @@ README.md<br/>
   ├── numbers.c<br/>
   ├── names.c<br/>
   ├── phonebook.c<br/>
-  ├── phonebook2.c<br/>
-  ├── ______.c<br/>
-  ├── ______.c<br/>
-  ├── ______.c<br/>
-  ├── ______.c<br/>
-  ├── ______.c<br/>
-  └── ______.c<br/>
+  └── phonebook2.c<br/>
   </p>
     </details>
-Week 4 Memory<br/>
+
+  <details>
+           <summary>Week 4 Memory</summary>
+           <p> 
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  ├── ________.c<br/>
+  └── ________.c<br/>
+  </p>
+    </details>
 Week 5 Data Structures<br/>
 Week 6 Python<br/>
 Week 7 SQL<br/>

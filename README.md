@@ -134,7 +134,7 @@ Run practice code: https://github.com/inspiringsource/CS50x-2020/blob/main/week2
 
 Practice code: https://github.com/inspiringsource/CS50x-2020/blob/main/week2/Practice/arrayOfarrays.c
 
-
+<script src="//onlinegdb.com/embed/js/4LE_AsRXN?theme=dark"></script>
 
 ## Additional resources:gift::
 

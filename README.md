@@ -54,7 +54,7 @@ README.md<br/>
   <details>
            <summary>Week 4 Memory</summary>
            <p> 
-  ├── ________.c<br/>
+  ├── address.c<br/>
   ├── ________.c<br/>
   ├── ________.c<br/>
   ├── ________.c<br/>
@@ -138,7 +138,7 @@ The output is 120
 <ins>Example:</ins>
 <table>
 <tr>
-<th>Code/th>
+<th>Code</th>
 <th>Output</th>
 </tr>
 <tr>
@@ -239,4 +239,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/NKTfNv2T0FE?t=711
+In progress: https://youtu.be/NKTfNv2T0FE?t=1099

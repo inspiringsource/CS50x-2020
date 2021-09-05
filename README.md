@@ -135,10 +135,10 @@ if we print to the pointed value we use:
 ```printf("%d", *ptr);```
 The output is 120
 
-
+<ins>Example:</ins>
 <table>
 <tr>
-<th>C code/th>
+<th>Code/th>
 <th>Output</th>
 </tr>
 <tr>
@@ -172,6 +172,8 @@ speed[2]        |       0x7ffde5134684  |       120
 </tr>
 </table>
 
+*Recall that addresses are binary numbers, but are often printed in hexadecimal base 16*
+
 ## Array of Arrays :pencil:
 
 ```string words[2]```<br/>
@@ -179,9 +181,10 @@ speed[2]        |       0x7ffde5134684  |       120
 ```words[0] = "HI!"```<br/>
 ```words[1] = "BYE"```<br/>
 
+<ins>Example:</ins>
 <table>
 <tr>
-<th>C code</th>
+<th>Code</th>
 <th>Output</th>
 </tr>
 <tr>
@@ -215,9 +218,9 @@ int main(void)
 </td>
 <td>
 
-`
-H       |       I       |       !       |       \0      |       B       |       Y       |       E       |       \0      |
-`
+
+```H       |       I       |       !       |       \0      |       B       |       Y       |       E       |       \0      |```
+
 
 </td>
 </tr>
@@ -236,4 +239,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/NKTfNv2T0FE
+In progress: https://youtu.be/NKTfNv2T0FE?t=711

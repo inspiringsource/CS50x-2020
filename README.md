@@ -231,6 +231,56 @@ int main(void)
 Recursion is the ability for a function to call itself. 
 
 
+## Pointers
+
+Pointers are variables that stores the addresses of other variables.
+
+Pointers take up to 8 bytes. Excluding the variable we are actually pointing at. In the below example n variable takes 4 bytes as a value of type int.
+
+<ins>Example:</ins>
+<table>
+<tr>
+<th>Code</th>
+<th>Output</th>
+</tr>
+<tr>
+<td>
+<pre>
+#include <stdio.h>
+
+int main()
+{
+    int n = 50;  //create a value of 50 labeled n
+    int *p = &n; //declare a variable, p, that has the type of *, a pointer
+
+    printf("---------------\n->Variable n\n---------------\n");
+    printf("%p\n", &n); //%p is the format code for an address and & operator get the address of the variable
+    printf("%i\n", n);  //print out the value of n
+    printf("---------------\n->Variable p\n---------------\n");
+    printf("%p\n", p);
+    printf("%i\n", *p); //* operator the dereference operator lets us “go to” the location that a pointer is pointing to
+}
+</pre>
+</td>
+<td>
+
+```
+---------------
+->Variable n
+---------------
+0x7ffd5a2fd1bc
+50
+---------------
+->Variable p
+---------------
+0x7ffd5a2fd1bc
+50
+```
+
+</td>
+</tr>
+</table>
+
 ## Additional resources:gift::
 
 Operators in C: https://www.programiz.com/c-programming/c-operators
@@ -239,4 +289,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/NKTfNv2T0FE?t=1099
+In progress: https://youtu.be/NKTfNv2T0FE?t=1816

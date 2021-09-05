@@ -235,7 +235,7 @@ Recursion is the ability for a function to call itself.
 
 Pointers are variables that stores the addresses of other variables.
 
-Pointers take up to 8 bytes. Excluding the variable we are actually pointing at. In the below example n variable takes 4 bytes as a value of type int.
+Pointers take up to 8 bytes. Excluding the variable we are actually pointing at. In the below example n variable takes an additional 4 bytes as a value of type int.
 
 <ins>Example:</ins>
 <table>

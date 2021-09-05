@@ -13,7 +13,6 @@ int main(void)
         for (int i = 0; i < 4; i++)
         {
 
-
             if (words[n][i] != '\0')
                 printf("%c\t|\t", words[n][i]);
             else if (words[n][i] == '\0')

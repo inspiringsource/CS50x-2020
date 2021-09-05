@@ -123,7 +123,42 @@ if we print to the pointed value we use:
 ```printf("%d", *ptr);```
 The output is 120
 
-Run practice code: https://github.com/inspiringsource/CS50x-2020/blob/main/week2/Practice/arraysNpointers.c for more...
+
+<table>
+<tr>
+<th>Json 1</th>
+<th>Markdown</th>
+</tr>
+<tr>
+<td>
+<pre>
+#include <stdio.h>
+
+int main(void)
+{
+    int i, speed[3] = {50, 80, 120};
+
+    printf("Element \t|\tAddress\t\t|\tValuen\n");
+
+    for (i = 0; i < 3; i++)
+    {
+        printf("speed[%d]\t|\t%p\t|\t%d\n", i, &speed[i], speed[i]);
+    }
+}
+</pre>
+</td>
+<td>
+
+```
+Element         |       Address         |       Valuen
+speed[0]        |       0x7ffde513467c  |       50
+speed[1]        |       0x7ffde5134680  |       80
+speed[2]        |       0x7ffde5134684  |       120
+```
+
+</td>
+</tr>
+</table>
 
 ## Array of Arrays :pencil:
 
@@ -132,9 +167,54 @@ Run practice code: https://github.com/inspiringsource/CS50x-2020/blob/main/week2
 ```words[0] = "HI!"```<br/>
 ```words[1] = "BYE"```<br/>
 
-Practice code: https://github.com/inspiringsource/CS50x-2020/blob/main/week2/Practice/arrayOfarrays.c
+<table>
+<tr>
+<th>Json 1</th>
+<th>Markdown</th>
+</tr>
+<tr>
+<td>
+<pre>
+```
+#include <cs50.h>
+#include <stdio.h>
+#include <string.h>
 
-<script src="//onlinegdb.com/embed/js/4LE_AsRXN?theme=dark"></script>
+int main(void)
+{
+    string words[2];
+    words[0] = "HI!";
+    words[1] = "BYE";
+
+    for (int n = 0; n < 2; n++)
+    {
+        for (int i = 0; i < 4; i++)
+        {
+
+            if (words[n][i] != '\0')
+                printf("%c\t|\t", words[n][i]);
+            else if (words[n][i] == '\0')
+                printf("\\0\t|\t");
+        }
+    }
+    printf("\n");
+}
+</pre>
+</td>
+<td>
+
+`
+H       |       I       |       !       |       \0      |       B       |       Y       |       E       |       \0      |
+`
+
+</td>
+</tr>
+</table>
+
+## Recursion
+
+Recursion is the ability for a function to call itself. 
+
 
 ## Additional resources:gift::
 
@@ -144,4 +224,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/gR6nycuZKlM?t=6885
+In progress: https://youtu.be/NKTfNv2T0FE

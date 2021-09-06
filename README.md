@@ -117,7 +117,7 @@ for(int i = 0; i < 3; ++i) {
      printf("%d\n", speed[i]);
   }
 ```
-### Pointers :sparkles:
+### Pointers (Part A) :sparkles:
 Pointers are used to store the addresses of an array.
 
 We can declare a pointer variable called ptr
@@ -173,6 +173,8 @@ speed[2]        |       0x7ffde5134684  |       120
 </table>
 
 *Recall that addresses are binary numbers, but are often printed in hexadecimal base 16*
+
+Pointers are discussed in detail in a subsequent section.
 
 ## Array of Arrays :pencil:
 
@@ -231,7 +233,7 @@ int main(void)
 Recursion is the ability for a function to call itself. 
 
 
-## Pointers
+## Pointers (Part B)
 
 Pointers are variables that stores the addresses of other variables.
 
@@ -289,4 +291,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/NKTfNv2T0FE?t=1816
+In progress: https://youtu.be/NKTfNv2T0FE?t=2664

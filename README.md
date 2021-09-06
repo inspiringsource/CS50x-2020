@@ -55,9 +55,9 @@ README.md<br/>
            <summary>Week 4 Memory</summary>
            <p> 
   ├── address.c<br/>
-  ├── ________.c<br/>
-  ├── ________.c<br/>
-  ├── ________.c<br/>
+  ├── address2.c<br/>
+  ├── compare.c<br/>
+  ├── copy.c<br/>
   ├── ________.c<br/>
   ├── ________.c<br/>
   ├── ________.c<br/>
@@ -291,4 +291,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/NKTfNv2T0FE?t=2664
+In progress: https://youtu.be/NKTfNv2T0FE?t=3676

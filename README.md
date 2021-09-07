@@ -264,7 +264,7 @@ int main(void)
 </tr>
 </table>
 
-## Recursion
+## Recursion :repeat:
 
 Recursion is the ability for a function to call itself. 
 
@@ -352,7 +352,7 @@ Mode  | Description
 "a+"       | Opens a file for reading and appending.
 
 
-[More modes here](https://www.programiz.com/c-programming/c-file-input-output "More modes here")
+[More modes here](https://www.programiz.com/c-programming/c-file-input-output "Link")
 
 ## Additional resources:gift::
 

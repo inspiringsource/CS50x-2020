@@ -352,7 +352,7 @@ Mode  | Description
 "a+"       | Opens a file for reading and appending.
 
 
-[More modes here](https://www.programiz.com/c-programming/c-file-input-output "Link")
+[List of modes](https://www.programiz.com/c-programming/c-file-input-output "Link")
 
 ## Additional resources:gift::
 

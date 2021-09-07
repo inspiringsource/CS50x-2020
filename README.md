@@ -64,13 +64,49 @@ README.md<br/>
   ├── mario.c<br/>
   ├── scanf.c<br/>
   ├── scanf2.c<br/>
-  ├── ________.c<br/>
-  ├── ________.c<br/>
-  └── ________.c<br/>
+  ├── phonebook.c<br/>
+  ├── phonebook.csv<br/>
+  └── jpeg.c<br/>
   </p>
     </details>
-Week 5 Data Structures<br/>
-Week 6 Python<br/>
+
+  <details>
+           <summary>Week 5 Data Structures</summary>
+           <p> 
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  └── __NAME__.c<br/>
+  </p>
+    </details>
+
+  <details>
+           <summary>Week 6 Python</summary>
+           <p> 
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  ├── __NAME__.c<br/>
+  └── __NAME__.c<br/>
+  </p>
+    </details>
 Week 7 SQL<br/>
 Week 8 HTML, CSS, JavaScript<br/>
 Week 9 Flask<br/>
@@ -291,4 +327,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/NKTfNv2T0FE?t=8403
+In progress: https://youtu.be/2T-A_GFuoTo

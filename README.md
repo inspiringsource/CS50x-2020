@@ -269,7 +269,7 @@ int main(void)
 Recursion is the ability for a function to call itself. 
 
 
-## Pointers (Part B)
+## Pointers (Part B) :telescope:
 
 Pointers are variables that stores the addresses of other variables.
 
@@ -319,6 +319,41 @@ int main()
 </tr>
 </table>
 
+## File I/O :open_file_folder:
+
+```
+#include <cs50.h>
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    FILE *file = fopen("phonebook.csv", "a"); //see below for different modes
+    if (file == NULL)
+    {
+        return 1;
+    }
+
+    char *name = get_string("Name: ");
+    char *number = get_string("Number: ");
+
+    fprintf(file, "%s,%s\n", name, number);
+
+    fclose(file);
+}
+```
+Mode  | Description
+------------- | -------------
+"r"       | Opens a file for reading. File must exist.
+"w"       | Open for writing. Creates file.
+"a"       | Open for append. File is created if it does not exist.
+"r+"       | Open for reading and writing. File must exist.
+"w+"       | Creates an empty file for reading and writing.
+"a+"       | Opens a file for reading and appending.
+
+
+[Read more here](https://www.programiz.com/c-programming/c-file-input-output "Read more here")
+
 ## Additional resources:gift::
 
 Operators in C: https://www.programiz.com/c-programming/c-operators
@@ -327,4 +362,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/2T-A_GFuoTo
+In progress: https://youtu.be/2T-A_GFuoTo?t=651

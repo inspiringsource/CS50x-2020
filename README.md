@@ -73,7 +73,7 @@ README.md<br/>
   <details>
            <summary>Week 5 Data Structures</summary>
            <p> 
-  ├── __NAME__.c<br/>
+  ├── list.c<br/>
   ├── __NAME__.c<br/>
   ├── __NAME__.c<br/>
   ├── __NAME__.c<br/>
@@ -354,7 +354,7 @@ Mode  | Description
 
 [List of modes](https://www.programiz.com/c-programming/c-file-input-output "Link")
 
-## malloc()
+## malloc() :link:
 
 Memory allocation function is used to reserve a block of memory and returns a pointer.
 
@@ -370,4 +370,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://www.youtube.com/watch?v=2T-A_GFuoTo&t=2580s
+In progress: https://youtu.be/2T-A_GFuoTo?t=3518

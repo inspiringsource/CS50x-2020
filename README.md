@@ -74,7 +74,7 @@ README.md<br/>
            <summary>Week 5 Data Structures</summary>
            <p> 
   ├── list.c<br/>
-  ├── __NAME__.c<br/>
+  ├── list2.c<br/>
   ├── __NAME__.c<br/>
   ├── __NAME__.c<br/>
   ├── __NAME__.c<br/>

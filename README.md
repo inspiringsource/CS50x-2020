@@ -354,6 +354,14 @@ Mode  | Description
 
 [List of modes](https://www.programiz.com/c-programming/c-file-input-output "Link")
 
+## malloc()
+
+Memory allocation function is used to reserve a block of memory and returns a pointer.
+
+When we create a linked list we use sizeof(struct node) we get a block of memory and malloc returns a pointer that we save as n.
+
+Read more about [Dynamic Memory Allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation "Link")
+
 ## Additional resources:gift::
 
 Operators in C: https://www.programiz.com/c-programming/c-operators
@@ -362,4 +370,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/2T-A_GFuoTo?t=651
+In progress: https://www.youtube.com/watch?v=2T-A_GFuoTo&t=2580s

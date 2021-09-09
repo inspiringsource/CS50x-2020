@@ -16,9 +16,9 @@ int main(void)
     list[2] = 3; //(list+2)=3;
     // ^^ Same thing ^^
 
-    //allocating more memory c
+    //re-allocating more memory c
 
-    int *tmp = malloc(4 * sizeof(int));
+    int *tmp = realloc(list, 4 * sizeof(int));
     if (tmp == NULL)
     {
         free(list);
@@ -31,13 +31,11 @@ int main(void)
     }
     tmp[3] = 4;
 
-    free(list);
-
     list = tmp;
 
     for (int i = 0; i < 4; i++)
     {
-        printf("%i\n", list[i]);
+        printf("%d\n", list[i]);
     }
     free(list);
 }

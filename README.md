@@ -75,8 +75,8 @@ README.md<br/>
            <p> 
   ├── list.c<br/>
   ├── list2.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
+  ├── list3.c<br/>
+  ├── list4.c<br/>
   ├── __NAME__.c<br/>
   ├── __NAME__.c<br/>
   ├── __NAME__.c<br/>
@@ -354,11 +354,59 @@ Mode  | Description
 
 [List of modes](https://www.programiz.com/c-programming/c-file-input-output "Link")
 
-## malloc() :link:
+## Dynamic Memory Allocation :link:
 
-Memory allocation function is used to reserve a block of memory and returns a pointer.
+When we need to change the size of a data structure like Array during the runtime, we can the following functions:
 
-When we create a linked list we use sizeof(struct node) we get a block of memory and malloc returns a pointer that we save as n.
+* malloc() allocates memory and returns a pointer that we save as n.
+* realloc() reallocate some memory that we allocated earlier.
+* free() The memory allocated using the above functions is de-allocate (freed). 
+
+
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+
+    int *list = malloc(3 * sizeof(int));
+
+    if (list == NULL)
+    {
+        return 1;
+    }
+
+    list[0] = 1; //list=1;
+    list[1] = 2; //(list+1)=2;
+    list[2] = 3; //(list+2)=3;
+    // ^^ Same thing ^^
+
+    //re-allocating more memory c
+
+    int *tmp = realloc(list, 4 * sizeof(int));
+    if (tmp == NULL)
+    {
+        free(list);
+        return 1;
+    }
+
+    for (int i = 0; i < 3; i++)
+    {
+        tmp[i] = list[i];
+    }
+    tmp[3] = 4;
+
+    list = tmp;
+
+    for (int i = 0; i < 4; i++)
+    {
+        printf("%d\n", list[i]);
+    }
+    free(list);
+}
+```
+
 
 Read more about [Dynamic Memory Allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation "Link")
 
@@ -370,4 +418,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/2T-A_GFuoTo?t=3518
+In progress: https://youtu.be/2T-A_GFuoTo?t=4835

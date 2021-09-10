@@ -435,4 +435,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/2T-A_GFuoTo
+In progress: https://youtu.be/ZEQh45W_UDo

@@ -264,6 +264,8 @@ int main(void)
 </tr>
 </table>
 
+
+*source: https://en.wikipedia.org/wiki/Big_O_notation*
 ## Recursion :repeat:
 
 Recursion is the ability for a function to call itself. 
@@ -319,6 +321,16 @@ int main()
 </tr>
 </table>
 
+## Big O notation
+
+Big O notation characterizes functions according to their growth rates.
+
+In our case, measuring the complexity of an algorithm versus time.
+
+
+![picture alt](Assets/Big_O_notation.jpg "Big-O Complexity Chart")
+<br> *Source: https://www.bigocheatsheet.com/*
+
 ## File I/O :open_file_folder:
 
 ```
@@ -354,7 +366,7 @@ Mode  | Description
 
 [List of modes](https://www.programiz.com/c-programming/c-file-input-output "Link")
 
-## Dynamic Memory Allocation :link:
+## Dynamic Memory Allocation :card_index_dividers:
 
 When we need to change the size of a data structure like Array during the runtime, we can the following functions:
 
@@ -412,10 +424,15 @@ Read more about [Dynamic Memory Allocation](https://www.programiz.com/c-programm
 
 ## Additional resources:gift::
 
+Big O notation: https://en.wikipedia.org/wiki/Big_O_notation
+<br> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; * https://youtu.be/QnRx6V8YQy0
+
 Operators in C: https://www.programiz.com/c-programming/c-operators
+
+Dynamic Memory Allocation: https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
 
 Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/2T-A_GFuoTo?t=4835
+In progress: https://youtu.be/2T-A_GFuoTo

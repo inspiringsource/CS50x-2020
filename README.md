@@ -84,19 +84,19 @@ README.md<br/>
   <details>
            <summary>Week 6 Python</summary>
            <p> 
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  └── __NAME__.c<br/>
+  ├── hello.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  └── __NAME__.py<br/>
   </p>
     </details>
 Week 7 SQL<br/>
@@ -427,4 +427,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://www.youtube.com/watch?v=ZEQh45W_UDo&t=513s
+In progress: https://youtu.be/ZEQh45W_UDo?t=794

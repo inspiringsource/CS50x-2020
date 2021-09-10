@@ -131,6 +131,10 @@ clang -o prog prog.c -lcs50
 # and
 ./prog
 ```
+For Python:
+```
+pip3 install cs50
+```
 
 ## Arrays and Pointers :flashlight:
 ### Arrays

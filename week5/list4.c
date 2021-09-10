@@ -1,4 +1,4 @@
-//Last example
+//Last example for lecture 5
 #include <stdio.h>
 #include <stdlib.h>
 

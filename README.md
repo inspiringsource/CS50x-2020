@@ -76,16 +76,8 @@ README.md<br/>
   ├── list.c<br/>
   ├── list2.c<br/>
   ├── list3.c<br/>
-  ├── list4.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  ├── __NAME__.c<br/>
-  └── __NAME__.c<br/>
+  └── list4.c<br/>
+ 
   </p>
     </details>
 

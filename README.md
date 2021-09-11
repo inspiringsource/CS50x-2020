@@ -94,12 +94,12 @@ README.md<br/>
   ├── agree.py<br/>
   ├── meow.py<br/>
   ├── meow2.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>  
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>  
+  ├── positive.py<br/>
+  ├── mario.py<br/>
+  ├── int.py<br/>  
+  ├── scores.py<br/>
+  ├── scores2.py<br/>
+  ├── uppercase.py<br/>  
   ├── __NAME__.py<br/>
   ├── __NAME__.py<br/>
   ├── __NAME__.py<br/>
@@ -513,6 +513,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/ZEQh45W_UDo?t=5324
+In progress: https://youtu.be/ZEQh45W_UDo?t=6543
 
-This is Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.
+This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

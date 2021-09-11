@@ -99,13 +99,85 @@ README.md<br/>
   └── __NAME__.py<br/>
   </p>
     </details>
-Week 7 SQL<br/>
-Week 8 HTML, CSS, JavaScript<br/>
-Week 9 Flask<br/>
-Week 10 Ethics<br/>
+
+  <details>
+           <summary>Week 7 SQL</summary>
+           <p> 
+  ├── hello.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  └── __NAME__.py<br/>
+  </p>
+    </details>
+
+  <details>
+           <summary>Week 8 HTML, CSS, JS</summary>
+           <p> 
+  ├── hello.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  └── __NAME__.py<br/>
+  </p>
+    </details>
+
+  <details>
+           <summary>Week 9 Flask</summary>
+           <p> 
+  ├── hello.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  └── __NAME__.py<br/>
+  </p>
+    </details>
+
+  <details>
+           <summary>Week 10 Ethics</summary>
+           <p> 
+  ├── hello.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>
+  └── __NAME__.py<br/>
+  </p>
+    </details>
 <br/>
 Final Project<br/>
-
+<br/>
 
 ## Features :eyes:
 
@@ -131,7 +203,7 @@ clang -o prog prog.c -lcs50
 # and
 ./prog
 ```
-For Python:
+CS50 Python library:
 ```
 pip3 install cs50
 ```
@@ -421,7 +493,8 @@ Read more about [Dynamic Memory Allocation](https://www.programiz.com/c-programm
 ## Additional resources:gift::
 
 Big O notation: https://en.wikipedia.org/wiki/Big_O_notation
-<br> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; * https://youtu.be/QnRx6V8YQy0
+<br> &emsp; &emsp; &emsp; * https://youtu.be/QnRx6V8YQy0
+<br> &emsp; &emsp; &emsp; * https://youtu.be/uHjPTUpQOAk
 
 Operators in C: https://www.programiz.com/c-programming/c-operators
 
@@ -431,4 +504,4 @@ Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
 Manual pages for the C: https://manual.cs50.io/
 
-In progress: https://youtu.be/ZEQh45W_UDo?t=794
+In progress: https://youtu.be/ZEQh45W_UDo?t=2516

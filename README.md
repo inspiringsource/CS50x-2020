@@ -502,6 +502,10 @@ Dynamic Memory Allocation: https://www.geeksforgeeks.org/dynamic-memory-allocati
 
 Markdown cheatsheet https://github.com/tchapi/markdown-cheatsheet
 
-Manual pages for the C: https://manual.cs50.io/
+Manual pages for C: https://manual.cs50.io/
 
-In progress: https://youtu.be/ZEQh45W_UDo?t=2516
+Manual pages for Python: https://docs.python.org/3/library/index.html
+
+In progress: https://youtu.be/ZEQh45W_UDo?t=5324
+
+This is Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

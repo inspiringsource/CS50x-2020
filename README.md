@@ -85,14 +85,21 @@ README.md<br/>
            <summary>Week 6 Python</summary>
            <p> 
   ├── hello.py<br/>
+  ├── hello2.py<br/>
+  ├── blur.py<br/>
+  ├── dictionary.py<br/>
+  ├── addition.py<br/>
+  ├── division.py<br/>
+  ├── conditions.py<br/>
+  ├── agree.py<br/>
+  ├── meow.py<br/>
+  ├── meow2.py<br/>
   ├── __NAME__.py<br/>
   ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>  
   ├── __NAME__.py<br/>
   ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
+  ├── __NAME__.py<br/>  
   ├── __NAME__.py<br/>
   ├── __NAME__.py<br/>
   ├── __NAME__.py<br/>

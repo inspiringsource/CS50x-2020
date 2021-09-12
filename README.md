@@ -100,10 +100,15 @@ README.md<br/>
   ├── scores.py<br/>
   ├── scores2.py<br/>
   ├── uppercase.py<br/>  
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  └── __NAME__.py<br/>
+  ├── argv.py<br/>
+  ├── exit.py<br/>
+  ├── numbers.py<br/>
+  ├── names.py<br/>
+  ├── names2.py<br/>
+  ├── phonebook.py<br/>
+  ├── swap.py<br/>  
+  ├── phonebook2.py<br/>
+  └── hogwarts.py<br/>
   </p>
     </details>
 
@@ -396,7 +401,7 @@ int main()
 </tr>
 </table>
 
-## Big O notation
+## Big O notation :milky_way:
 
 Big O notation characterizes functions according to their growth rates.
 
@@ -513,6 +518,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/ZEQh45W_UDo?t=6543
+In progress: https://youtu.be/LzElj46saa8
 
 This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

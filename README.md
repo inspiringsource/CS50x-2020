@@ -115,19 +115,19 @@ README.md<br/>
   <details>
            <summary>Week 7 SQL</summary>
            <p> 
-  ├── hello.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  └── __NAME__.py<br/>
+  ├── Favorite TV Shows - Form Responses 1.csv<br/>
+  ├── favorites0.py<br/>
+  ├── favorites1.py<br/>
+  ├── favorites2.py<br/>
+  ├── favorites3.py<br/>
+  ├── favorites4.py<br/>
+  ├── favorites5.py<br/>
+  ├── favorites6.py<br/>
+  ├── favorites7.py<br/>
+  ├── favorites8.py<br/>
+  ├── favorites9.py<br/>
+  ├── shows.db<br/>
+  └── morecode.py<br/>
   </p>
     </details>
 
@@ -518,6 +518,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/LzElj46saa8
+In progress: https://youtu.be/LzElj46saa8?t=1266
 
 This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

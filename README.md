@@ -118,7 +118,7 @@ README.md<br/>
   ├── Favorite TV Shows - Form Responses 1.csv<br/>
   ├── favorites0.py<br/>
   ├── favorites1.py<br/>
-  ├── favorites2.py<br/>
+  ├── favorites2.py (lambda)<br/>
   ├── favorites3.py<br/>
   ├── favorites4.py<br/>
   ├── favorites5.py<br/>
@@ -502,6 +502,48 @@ int main(void)
 
 Read more about [Dynamic Memory Allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation "Link")
 
+## SQL
+
+Relational databases are programs that store data with additional data structures that allow us to search and store data faster.
+<br/>
+Create, Read, Update and Delete (CRUD) is an acronym that refers to the four operations of persistent storage. 
+<br/>
+CREATE, INSERT<br/>
+SELECT<br/>
+```
+SELECT column FROM table;
+```
+UPDATE<br/>
+DELETE<br/>
+<br/>
+Examples:<br/>
+
+```
+sqlite> SELECT * FROM shows;
+"10/19/2020 13:34:57","The Office",Comedy
+"10/19/2020 13:35:03","The Office",Comedy
+"10/19/2020 13:35:06","the office",Comedy
+"10/19/2020 13:35:06","The Office","Comedy, Documentary, Reality-TV"
+"10/19/2020 13:35:12","The Office ",Comedy
+```
+```
+sqlite> SELECT title FROM shows;
+"The Office"
+"The Office"
+"the office"
+"The Office"
+"The Office "
+Friends
+```
+Functions supported by SQL:<br/>
+AVG<br/>
+COUNT<br/>
+DISTINCT<br/>
+LOWER<br/>
+MAX<br/>
+MIN<br/>
+UPPER<br/>
+
 ## Additional resources:gift::
 
 Big O notation: https://en.wikipedia.org/wiki/Big_O_notation
@@ -518,6 +560,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/LzElj46saa8?t=1266
+In progress: https://youtu.be/LzElj46saa8?t=4494
 
 This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

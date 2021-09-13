@@ -502,12 +502,14 @@ int main(void)
 
 Read more about [Dynamic Memory Allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation "Link")
 
-## SQL
+## SQL :card_file_box:
 
-Relational databases are programs that store data with additional data structures that allow us to search and store data faster.
+Relational databases are programs that store data with additional data structures that allow us to search and store data faster.<br/>
 <br/>
-Create, Read, Update and Delete (CRUD) is an acronym that refers to the four operations of persistent storage. 
+Create, Read, Update and Delete (CRUD) is the acronym that refers to the four operations of persistent storage. 
 <br/>
+
+### Basic commands in SQL:
 CREATE, INSERT<br/>
 SELECT<br/>
 ```
@@ -517,6 +519,11 @@ UPDATE<br/>
 DELETE<br/>
 <br/>
 Examples:<br/>
+
+```
+sqlite> .mode csv
+sqlite> .import 'Favorite TV Shows - Form Responses 1.csv' shows
+```
 
 ```
 sqlite> SELECT * FROM shows;
@@ -560,6 +567,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/LzElj46saa8?t=4494
+In progress: https://youtu.be/LzElj46saa8?t=4757
 
 This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

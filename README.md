@@ -542,15 +542,15 @@ To save data to SQL database ```sqlite> .save shows.db```
 
 
 
- Functions    |Types in SQL  | Value        | 
-------------- |------------- |------------- |
-AVG           |BLOB          |   void        | 
-COUNT         |INTEGER       |  void         | 
-DISTINCT      |NUMERIC       |   void        |
-LOWER         |REAL          |   void        | 
-MAX           |TEXT          |  void         | 
-MIN           |               |   void        | 
-UPPER         |               |   void        | 
+ Functions    |Types in SQL  | 
+------------- |------------- |
+AVG           |BLOB          | 
+COUNT         |INTEGER       | 
+DISTINCT      |NUMERIC       |
+LOWER         |REAL          | 
+MAX           |TEXT          | 
+MIN           |              | 
+UPPER         |              | 
 
 Selecting a title, example code (SQL):
 ```SELECT * FROM imdb WHERE title="Toy Story 3";```

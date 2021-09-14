@@ -121,13 +121,9 @@ README.md<br/>
   ├── favorites2.py (lambda)<br/>
   ├── favorites3.py<br/>
   ├── favorites4.py<br/>
-  ├── favorites5.py<br/>
-  ├── favorites6.py<br/>
-  ├── favorites7.py<br/>
-  ├── favorites8.py<br/>
-  ├── favorites9.py<br/>
+  ├── favorites5.py (SQL)<br/>
   ├── shows.db<br/>
-  └── morecode.py<br/>
+  └── Favorite TV Shows - Form Responses 1.csv<br/>
   </p>
     </details>
 
@@ -529,15 +525,10 @@ sqlite> .import 'Favorite TV Shows - Form Responses 1.csv' shows
 sqlite> SELECT * FROM shows;
 "10/19/2020 13:34:57","The Office",Comedy
 "10/19/2020 13:35:03","The Office",Comedy
-"10/19/2020 13:35:06","the office",Comedy
 "10/19/2020 13:35:06","The Office","Comedy, Documentary, Reality-TV"
-"10/19/2020 13:35:12","The Office ",Comedy
 ```
 ```
 sqlite> SELECT title FROM shows;
-"The Office"
-"The Office"
-"the office"
 "The Office"
 "The Office "
 Friends
@@ -561,6 +552,10 @@ MAX           |TEXT          |  void         |
 MIN           |               |   void        | 
 UPPER         |               |   void        | 
 
+Selecting a title, example code (SQL):
+```SELECT * FROM imdb WHERE title="Toy Story 3";```
+
+Lecture Notes: https://cs50.harvard.edu/x/2021/notes/7/#sql
 
 ## Additional resources:gift::
 
@@ -578,6 +573,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/LzElj46saa8?t=7510
+In progress: https://youtu.be/5g0x2xv3aHU
 
 This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

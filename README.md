@@ -542,20 +542,25 @@ sqlite> SELECT title FROM shows;
 "The Office "
 Friends
 ```
-Functions supported by SQL:<br/>
-AVG<br/>
-COUNT<br/>
-DISTINCT<br/>
-LOWER<br/>
-MAX<br/>
-MIN<br/>
-UPPER<br/>
 
 For example, we can trim, sort, count and much more...
 ```
 sqlite> SELECT UPPER(TRIM(title)), COUNT(title) FROM shows GROUP BY UPPER(TRIM(title)) ORDER BY COUNT(title) DESC;
 ```
 To save data to SQL database ```sqlite> .save shows.db```
+
+
+
+ Functions    |Types in SQL  | Value        | 
+------------- |------------- |------------- |
+AVG           |BLOB          |   void        | 
+COUNT         |INTEGER       |  void         | 
+DISTINCT      |NUMERIC       |   void        |
+LOWER         |REAL          |   void        | 
+MAX           |TEXT          |  void         | 
+MIN           |               |   void        | 
+UPPER         |               |   void        | 
+
 
 ## Additional resources:gift::
 
@@ -573,6 +578,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/LzElj46saa8?t=5725
+In progress: https://youtu.be/LzElj46saa8?t=7510
 
 This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

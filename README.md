@@ -551,6 +551,12 @@ MAX<br/>
 MIN<br/>
 UPPER<br/>
 
+For example, we can trim, sort, count and much more...
+```
+sqlite> SELECT UPPER(TRIM(title)), COUNT(title) FROM shows GROUP BY UPPER(TRIM(title)) ORDER BY COUNT(title) DESC;
+```
+To save data to SQL database ```sqlite> .save shows.db```
+
 ## Additional resources:gift::
 
 Big O notation: https://en.wikipedia.org/wiki/Big_O_notation
@@ -567,6 +573,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/LzElj46saa8?t=4757
+In progress: https://youtu.be/LzElj46saa8?t=5725
 
 This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

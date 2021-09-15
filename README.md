@@ -1,6 +1,6 @@
 # CS50x-2020
 My solutions and practice code for CS50x 2020 :bowtie:<br/>
-jump to the [Resources](https://github.com/inspiringsource/CS50x-2020#additional-resourcesgift"📚")
+jump to the [Resources](https://github.com/inspiringsource/CS50x-2020#additional-resourcesgift)
 ## About this Repository
 
 :point_right: This is my attempt at CS50 course. I will record relevant progress and source code for good practice. 

@@ -572,6 +572,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/5g0x2xv3aHU?t=3157
+In progress: https://youtu.be/5g0x2xv3aHU?t=3948
 
 This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

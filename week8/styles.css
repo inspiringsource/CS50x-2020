@@ -1,0 +1,18 @@
+body
+{
+    background-color: rgb(165, 14, 14);
+    color: silver;
+}
+.centered {
+  text-align: center;
+}
+.large {
+    font-weight: bold;
+  font-size: large;
+}
+.medium {
+  font-size: medium;
+}
+.small {
+  font-size: small;
+}

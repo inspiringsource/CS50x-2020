@@ -1,6 +1,6 @@
 # CS50x-2020
 My solutions and practice code for CS50x 2020 :bowtie:<br/>
-jump to the [References ](https://github.com/inspiringsource/CS50x-2020#additional-resourcesgift).
+jump to the [References](https://github.com/inspiringsource/CS50x-2020#additional-resourcesgift) :next_track_button:
 ## About this Repository
 
 :point_right: This is my attempt at CS50 course. I will record relevant progress and source code for good practice. 
@@ -574,4 +574,4 @@ Manual pages for Python: https://docs.python.org/3/library/index.html
 
 In progress: https://youtu.be/5g0x2xv3aHU?t=5716
 
-This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.
+Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

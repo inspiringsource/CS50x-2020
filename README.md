@@ -1,6 +1,6 @@
 # CS50x-2020
 My solutions and practice code for CS50x 2020 :bowtie:<br/>
-jump to the [Resources](https://github.com/inspiringsource/CS50x-2020#additional-resourcesgift) section.
+jump to the [References ](https://github.com/inspiringsource/CS50x-2020#additional-resourcesgift).
 ## About this Repository
 
 :point_right: This is my attempt at CS50 course. I will record relevant progress and source code for good practice. 
@@ -130,18 +130,18 @@ README.md<br/>
   <details>
            <summary>Week 8 HTML, CSS, JS</summary>
            <p> 
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  └── __NAME__.py<br/>
+  ├── hello.html<br/>
+  ├── paragraphs.html<br/>
+  ├── headings.html<br/>
+  ├── list.html<br/>
+  ├── table.html<br/>
+  ├── image.html<br/>
+  ├── link.html<br/>
+  ├── search.html<br/>
+  ├── __NAME__.html<br/>
+  ├── __NAME__.html<br/>
+  ├── __NAME__.html<br/>
+  └── __NAME__.html<br/>
   </p>
     </details>
 
@@ -554,7 +554,7 @@ UPPER         |              |
 Selecting a title, example code (SQL):
 ```SELECT * FROM imdb WHERE title="Toy Story 3";```
 
-Lecture Notes: https://cs50.harvard.edu/x/2021/notes/7/#sql
+Further lecture Notes: https://cs50.harvard.edu/x/2021/notes/7/#sql
 
 ## Additional resources:gift::
 
@@ -572,6 +572,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/5g0x2xv3aHU?t=3948
+In progress: https://youtu.be/5g0x2xv3aHU?t=5716
 
 This is from Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.

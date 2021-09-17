@@ -1,6 +1,6 @@
 # CS50x-2020
 My solutions and practice code for CS50x 2020 :bowtie:<br/>
-jump to the [References](https://github.com/inspiringsource/CS50x-2020#additional-resourcesgift) :next_track_button:
+jump to the [References :next_track_button:](https://github.com/inspiringsource/CS50x-2020#additional-resourcesgift)
 ## About this Repository
 
 :point_right: This is my attempt at CS50 course. I will record relevant progress and source code for good practice. 
@@ -138,10 +138,16 @@ README.md<br/>
   ├── image.html<br/>
   ├── link.html<br/>
   ├── search.html<br/>
-  ├── __NAME__.html<br/>
-  ├── __NAME__.html<br/>
-  ├── __NAME__.html<br/>
-  └── __NAME__.html<br/>
+  ├── hello2.html<br/>
+  ├── hello3.html<br/>
+  ├── hello4.html (lambda func)<br/>
+  ├── hello5.html<br/>
+  ├── size.html<br/>
+  ├── blink.html<br/>
+  ├── geolocation.html<br/>
+  ├── background.html<br/>
+  ├── autocomplete.html<br/>
+  └── light.py
   </p>
     </details>
 

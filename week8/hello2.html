@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      function greet() {
+        let name = document.querySelector('#name').value
+        alert('Hello, ' + name)
+      }
+    </script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hello, title</title>
+  </head>
+  <body>
+    <form onsubmit="greet(); return false;">
+      <input type="text" id="name" autofocus placeholder="What is your name?" />
+      <input type="submit" value="Greet me" />
+    </form>
+  </body>
+</html>

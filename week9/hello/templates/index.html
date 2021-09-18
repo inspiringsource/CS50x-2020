@@ -1,9 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Document</title>
-</head>
-<body>
-    Hello, world 👋
-</body>
-</html>
+{% entends "layout.html" %} 
+
+{% block body %}
+
+<form action="/greet" method="post">
+  <input
+    autocomplete="off"
+    autofocus
+    name="name"
+    placeholder="What's your name?"
+    type="text"
+  />
+  <input type="submit" />
+</form>
+
+{% endblock %}

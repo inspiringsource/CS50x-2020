@@ -156,8 +156,8 @@ README.md<br/>
            <p> 
   ├── application.py<br/>
   ├── index.html<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
+  ├── greet.html<br/>
+  ├── layout.html<br/>
   ├── __NAME__.py<br/>
   ├── __NAME__.py<br/>
   ├── __NAME__.py<br/>
@@ -578,6 +578,8 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/x_c8pTW8ZUc?t=1005
+In progress: https://youtu.be/x_c8pTW8ZUc?t=2526
 
 Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.
+
+jump to the [TOP :arrow_double_up:](https://github.com/inspiringsource/CS50x-2020#cs50x-2020)

@@ -1,0 +1,1 @@
+Brian Yu as the instructor for CS50 advised student to attempt and solve problem at https://projecteuler.net/ 

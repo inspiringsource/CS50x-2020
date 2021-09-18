@@ -157,37 +157,10 @@ README.md<br/>
   ├── application.py<br/>
   ├── index.html<br/>
   ├── greet.html<br/>
-  ├── layout.html<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  └── __NAME__.py<br/>
+  └── layout.html<br/>
   </p>
     </details>
 
-  <details>
-           <summary>Week 10 Ethics</summary>
-           <p> 
-  ├── hello.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  ├── __NAME__.py<br/>
-  └── __NAME__.py<br/>
-  </p>
-    </details>
 <br/>
 Final Project<br/>
 <br/>

@@ -8,7 +8,7 @@ print("Answer: ", end='')
 #the range should exclude 1 to the largest integer in the equation (our target)
 for i in range(2, target):
     if target % i == 0:
-        print(i, end=' ')
+        print(i, end='; ')
       
         prime_sum = prime_sum * i
 
@@ -16,4 +16,4 @@ for i in range(2, target):
             print("are prime factors of:", prime_sum)
             sys.exit()
 
-#output: Answer: 71 839 1471 6857 are prime factors of: 600851475143
+#output: Answer: 71; 839; 1471; 6857; are prime factors of: 600851475143

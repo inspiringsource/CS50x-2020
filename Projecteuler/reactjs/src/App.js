@@ -1,36 +1,26 @@
 import React, { Component } from 'react'
 import logo from './logo.svg'
 import './App.css'
+import Body from "./components/Body"
+import Header from './components/Header'
 
-class Header extends Component {
-  render() {
-    return (
-      <p>
-        <h1>Project Euler</h1>
-        <footer></footer>
-      </p>
-    )
-  }
-}
-
-const Intro = () => (
-  <p className="App-intro">
-    Learning React by building and solving Project Euler probelms:
-  </p>
-)
 const Progress = () => (
   <p className="App-intro">
-    <a href="https://youtu.be/ICmMVfKjEuo">Learning React</a> /{'\n'}
+    <a href="https://youtu.be/34fE23aib1o">Learning React</a> /{'\n'}
     <a href="https://projecteuler.net/problem=1">Next Problem</a>
   </p>
 )
+const Intro = (props) => <p className="App-intro">{props.myIntro}</p>
+
+
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header title="Project Euler" />
       <Progress />
-      <Intro />
+      <Intro myIntro="Learning React by building and solving Project Euler probelms:" />
+      <Body probN="Problem 1" answer="Hello world"/>
     </div>
   )
 }

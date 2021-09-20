@@ -1,0 +1,16 @@
+import React from "react"
+
+class Body extends React.Component {
+    render() {
+      return (
+        <p align="left">
+          <u>
+            <h4>{this.props.probN}</h4>
+          </u>
+          {this.props.answer}
+        </p>
+      )
+    }
+  }
+
+export default Body;

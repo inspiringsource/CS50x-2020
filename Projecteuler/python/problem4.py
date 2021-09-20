@@ -1,7 +1,7 @@
 import sys
 import math
 
-
+answers=[]
 prime_sum = 1
 target = 9009
 print("Answer: ", end='')
@@ -12,15 +12,9 @@ print("Answer: ", end='')
 for i in range(100, 1000):
     if target % i == 0:
         print(i, end='; ')
-      
-        prime_sum = prime_sum * i
-        
-        print(prime_sum)
-        # if prime_sum>target:
-        #     prime_sum=1
-        
-        if prime_sum == target:
-            print("are prime factors of:", prime_sum)
-            sys.exit()
+        answers.append(i)
+print()
+sum_palindrome = answers[-1] * answers[-2]
+print(f"The largest palindrome are {answers[-1]} x {answers[-2]} = {sum_palindrome}")
 
 #output: Answer: 71; 839; 1471; 6857; are prime factors of: 600851475143

@@ -8,6 +8,7 @@ class Body extends React.Component {
             <h4>{this.props.probN}</h4>
           </u>
           {this.props.answer}
+           <a href="{this.props.link}"> See the code.</a>
         </p>
       )
     }

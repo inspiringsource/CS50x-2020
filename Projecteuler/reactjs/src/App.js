@@ -7,7 +7,7 @@ import Header from './components/Header'
 const Progress = () => (
   <p className="App-intro">
     <a href="https://youtu.be/34fE23aib1o">Learning React</a> /{'\n'}
-    <a href="https://projecteuler.net/problem=5">Next Problem</a>
+    <a href="https://projecteuler.net/archives;page=1">Next Problem</a>
   </p>
 )
 const Intro = (props) => <p className="App-intro">{props.myIntro}</p>

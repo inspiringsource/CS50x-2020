@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import logo from './logo.svg'
 import './App.css'
 import Body from "./components/Body"
 import Header from './components/Header'
@@ -30,8 +29,7 @@ function App() {
             answer="The largest prime factor of the number 600851475143 are 71, 839, 1471 and 6857"
             link="https://github.com/inspiringsource/CS50x-2020/blob/main/Projecteuler/python/problem3.py"/>
       <Body probN="Solution 4"
-            answer="The product of two 3-digit: 117, 143, 231, 273, 429, 693 and 819 
-            The largest palindrome are 819 x 693 = 567567"
+            answer=""
             link="https://github.com/inspiringsource/CS50x-2020/blob/main/Projecteuler/python/problem4.py"/>
       <Body probN="Solution 5"
             answer="In progress"

@@ -162,7 +162,8 @@ README.md<br/>
     </details>
 
 <br/>
-Final Project<br/>
+Final Project:<br/>
+https://github.com/inspiringsource/django_project
 <br/>
 
 ## Features :eyes:

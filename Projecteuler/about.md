@@ -1,1 +1,0 @@
-Brian Yu as the instructor for CS50 advised student to try to solve computer programming problems on Project Euler: https://projecteuler.net/ 

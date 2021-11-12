@@ -552,8 +552,6 @@ Manual pages for C: https://manual.cs50.io/
 
 Manual pages for Python: https://docs.python.org/3/library/index.html
 
-In progress: https://youtu.be/x_c8pTW8ZUc?t=2526
-
 Harvard CS50 course material, lecture notes, source code and if not otherwise mentioned images.
 
 jump to the [TOP :arrow_double_up:](https://github.com/inspiringsource/CS50x-2020#cs50x-2020)

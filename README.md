@@ -13,7 +13,7 @@ README.md<br/>
            <p> 
   ├── goodbye.c<br/>
   ├── hello.c<br/>
-  ├── addtion.c<br/>
+  ├── addition.c<br/>
   ├── truncation.c<br/>
   ├── conditions.c<br/>
   ├── agree.c<br/>

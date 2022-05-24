@@ -539,7 +539,7 @@ Further lecture Notes: https://cs50.harvard.edu/x/2021/notes/7/#sql
 ## Additional resources:gift::
 
 Big O notation: https://en.wikipedia.org/wiki/Big_O_notation
-<br> &emsp; &emsp; &emsp; *https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/
+<br> &emsp; &emsp; &emsp; * https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/
 <br> &emsp; &emsp; &emsp; * https://youtu.be/JPyuH4qXLZ0
 <br> &emsp; &emsp; &emsp; * https://youtu.be/QnRx6V8YQy0
 <br> &emsp; &emsp; &emsp; * https://youtu.be/uHjPTUpQOAk

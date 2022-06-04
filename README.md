@@ -3,7 +3,7 @@ My solutions and practice code for CS50x 2020 :bowtie:<br/>
 jump to the [References :next_track_button:](https://github.com/inspiringsource/CS50x-2020#additional-resourcesgift)
 ## About this Repository
 
-:point_right: This is my attempt at CS50 course. I will record relevant progress and source code for good practice. 
+:point_right: This is my attempt at CS50 course. I will record relevant progress, updates and source code for good practice. 
 
 ## Contents :speech_balloon:
 
@@ -168,7 +168,7 @@ https://github.com/inspiringsource/django_project
 
 ## Features :eyes:
 
-Course link: https://cs50.harvard.edu/x/2021/
+Course link: https://cs50.harvard.edu/x/2022/ *(Edited)*
 
 Compiling source code into machine code is made up of:
 * preprocessing
@@ -534,7 +534,7 @@ UPPER         |              |
 Selecting a title, example code (SQL):
 ```SELECT * FROM imdb WHERE title="Toy Story 3";```
 
-Further lecture Notes: https://cs50.harvard.edu/x/2021/notes/7/#sql
+Further lecture Notes: https://cs50.harvard.edu/x/2022/notes/7/#sql *(Edited)*
 
 ## Additional resources:gift::
 
